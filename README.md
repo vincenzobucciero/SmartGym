@@ -53,8 +53,16 @@ npm start
 Access SmartGym:
 Open your web browser and visit http://localhost:3000 to access the SmartGym platform.
 
-# Contribution
+# Contribution & Group members
 We welcome contributions from the community to enhance SmartGym. If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
+* Bucciero Vincenzo
+* Cecere Ylenia
+* Ruotolo Pasquale
+
+### Other Information
+[Palette](https://coolors.co/palette/fc328a-ffffff-000000) <br />
+[Canva Slideshow](https://www.canva.com/design/DAFRTf7lFJI/Dtl-TGNsp8QGHwhST7_YKQ/view?utm_content=DAFRTf7lFJI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[preview](http://3.76.160.189:8080/)
 
 
 # License
