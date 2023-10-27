@@ -62,6 +62,8 @@ We welcome contributions from the community to enhance SmartGym. If you find any
 ### Other Information
 [Palette](https://coolors.co/palette/fc328a-ffffff-000000) <br />
 [Canva Slideshow](https://www.canva.com/design/DAFRTf7lFJI/Dtl-TGNsp8QGHwhST7_YKQ/view?utm_content=DAFRTf7lFJI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+
 [preview](http://3.76.160.189:8080/)
 
 
